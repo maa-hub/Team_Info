@@ -39,5 +39,5 @@ THEN I exit the application, and the HTML is generated
 ## Contribution
 Made with ❤️ by Maame
 
-![alt text](./src/screenshot1.png)
-![alt text](./src/screenshot2.png)
+![alt text](./src/images/screenshot1.png)
+![alt text](./src/images/screenshot2.png)
