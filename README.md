@@ -40,7 +40,8 @@ THEN I exit the application, and the HTML is generated
 A sample HTML file can be found in the output folder
 
 ## Contribution
-Made with ❤️ by Maame
+Made with ❤️ by Maame (with assistance from class repository)
+
 
 ![alt text](./src/images/screenshot1.png)
 ![alt text](./src/images/screenshot2.png)
